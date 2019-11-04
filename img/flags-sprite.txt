@@ -1,0 +1,310 @@
+.bg-australia@26w1x {
+    width: 26px; height: 18px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+x
+.bg-australia@26w2x {
+    width: 52px; height: 36px;
+    background: url('css_sprites.png') -10px -918px;
+}
+
+x
+.bg-australia@35w1x {
+    width: 35px; height: 24px;
+    background: url('css_sprites.png') -10px -390px;
+}
+
+x
+.bg-australia@35w2x {
+    width: 70px; height: 48px;
+    background: url('css_sprites.png') -10px -1746px;
+}
+
+x
+.bg-belgium@26w1x {
+    width: 26px; height: 18px;
+    background: url('css_sprites.png') -10px -48px;
+}
+
+x
+.bg-belgium@26w2x {
+    width: 52px; height: 36px;
+    background: url('css_sprites.png') -10px -974px;
+}
+
+x
+.bg-belgium@35w1x {
+    width: 35px; height: 24px;
+    background: url('css_sprites.png') -10px -434px;
+}
+
+x
+.bg-belgium@35w2x {
+    width: 70px; height: 48px;
+    background: url('css_sprites.png') -10px -1814px;
+}
+
+x
+.bg-bosnia_and_herzegovina@35w1x {
+    width: 35px; height: 24px;
+    background: url('css_sprites.png') -10px -478px;
+}
+
+x
+.bg-bosnia_and_herzegovina@35w2x {
+    width: 70px; height: 48px;
+    background: url('css_sprites.png') -10px -1882px;
+}
+
+x
+.bg-bosnia_and_herzegovina@70w1x {
+    width: 70px; height: 47px;
+    background: url('css_sprites.png') -10px -1478px;
+}
+
+x
+.bg-bosnia_and_herzegovina@70w2x {
+    width: 140px; height: 94px;
+    background: url('css_sprites.png') -10px -2562px;
+}
+
+x
+.bg-czech@26w1x {
+    width: 26px; height: 18px;
+    background: url('css_sprites.png') -10px -86px;
+}
+
+x
+.bg-czech@26w2x {
+    width: 52px; height: 36px;
+    background: url('css_sprites.png') -10px -1030px;
+}
+
+x
+.bg-czech@35w1x {
+    width: 35px; height: 24px;
+    background: url('css_sprites.png') -10px -522px;
+}
+
+x
+.bg-czech@35w2x {
+    width: 70px; height: 48px;
+    background: url('css_sprites.png') -10px -1950px;
+}
+
+x
+.bg-czech@70w1x {
+    width: 70px; height: 47px;
+    background: url('css_sprites.png') -10px -1545px;
+}
+
+x
+.bg-czech@70w2x {
+    width: 140px; height: 94px;
+    background: url('css_sprites.png') -10px -2676px;
+}
+
+x
+.bg-dominica@26w1x {
+    width: 26px; height: 18px;
+    background: url('css_sprites.png') -10px -124px;
+}
+
+x
+.bg-dominica@26w2x {
+    width: 52px; height: 36px;
+    background: url('css_sprites.png') -10px -1086px;
+}
+
+x
+.bg-dominica@35w1x {
+    width: 35px; height: 24px;
+    background: url('css_sprites.png') -10px -566px;
+}
+
+x
+.bg-dominica@35w2x {
+    width: 70px; height: 48px;
+    background: url('css_sprites.png') -10px -2018px;
+}
+
+x
+.bg-france@35w1x {
+    width: 35px; height: 24px;
+    background: url('css_sprites.png') -10px -610px;
+}
+
+x
+.bg-france@35w2x {
+    width: 70px; height: 48px;
+    background: url('css_sprites.png') -10px -2086px;
+}
+
+x
+.bg-france@70w1x {
+    width: 70px; height: 47px;
+    background: url('css_sprites.png') -10px -1612px;
+}
+
+x
+.bg-france@70w2x {
+    width: 140px; height: 94px;
+    background: url('css_sprites.png') -10px -2790px;
+}
+
+x
+.bg-germany@26w1x {
+    width: 26px; height: 18px;
+    background: url('css_sprites.png') -10px -162px;
+}
+
+x
+.bg-germany@26w2x {
+    width: 52px; height: 36px;
+    background: url('css_sprites.png') -10px -1142px;
+}
+
+x
+.bg-germany@35w1x {
+    width: 35px; height: 24px;
+    background: url('css_sprites.png') -10px -654px;
+}
+
+x
+.bg-germany@35w2x {
+    width: 70px; height: 48px;
+    background: url('css_sprites.png') -10px -2154px;
+}
+
+x
+.bg-seychelles@26w1x {
+    width: 26px; height: 18px;
+    background: url('css_sprites.png') -10px -200px;
+}
+
+x
+.bg-seychelles@26w2x {
+    width: 52px; height: 36px;
+    background: url('css_sprites.png') -10px -1198px;
+}
+
+x
+.bg-seychelles@35w1x {
+    width: 35px; height: 24px;
+    background: url('css_sprites.png') -10px -698px;
+}
+
+x
+.bg-seychelles@35w2x {
+    width: 70px; height: 48px;
+    background: url('css_sprites.png') -10px -2222px;
+}
+
+x
+.bg-srilanka@26w1x {
+    width: 26px; height: 18px;
+    background: url('css_sprites.png') -10px -238px;
+}
+
+x
+.bg-srilanka@26w2x {
+    width: 52px; height: 36px;
+    background: url('css_sprites.png') -10px -1254px;
+}
+
+x
+.bg-srilanka@35w1x {
+    width: 35px; height: 24px;
+    background: url('css_sprites.png') -10px -742px;
+}
+
+x
+.bg-srilanka@35w2x {
+    width: 70px; height: 48px;
+    background: url('css_sprites.png') -10px -2290px;
+}
+
+x
+.bg-thailand@26w1x {
+    width: 26px; height: 18px;
+    background: url('css_sprites.png') -10px -276px;
+}
+
+x
+.bg-thailand@26w2x {
+    width: 52px; height: 36px;
+    background: url('css_sprites.png') -10px -1310px;
+}
+
+x
+.bg-thailand@35w1x {
+    width: 35px; height: 24px;
+    background: url('css_sprites.png') -10px -786px;
+}
+
+x
+.bg-thailand@35w2x {
+    width: 70px; height: 48px;
+    background: url('css_sprites.png') -10px -2358px;
+}
+
+x
+.bg-thailand@70w1x {
+    width: 70px; height: 47px;
+    background: url('css_sprites.png') -10px -1679px;
+}
+
+x
+.bg-thailand@70w2x {
+    width: 140px; height: 94px;
+    background: url('css_sprites.png') -10px -2904px;
+}
+
+x
+.bg-united-kingdom@26w1x {
+    width: 26px; height: 18px;
+    background: url('css_sprites.png') -10px -314px;
+}
+
+x
+.bg-united-kingdom@26w2x {
+    width: 52px; height: 36px;
+    background: url('css_sprites.png') -10px -1366px;
+}
+
+x
+.bg-united-kingdom@35w1x {
+    width: 35px; height: 24px;
+    background: url('css_sprites.png') -10px -830px;
+}
+
+x
+.bg-united-kingdom@35w2x {
+    width: 70px; height: 48px;
+    background: url('css_sprites.png') -10px -2426px;
+}
+
+x
+.bg-united-states-of-america@26w1x {
+    width: 26px; height: 18px;
+    background: url('css_sprites.png') -10px -352px;
+}
+
+x
+.bg-united-states-of-america@26w2x {
+    width: 52px; height: 36px;
+    background: url('css_sprites.png') -10px -1422px;
+}
+
+x
+.bg-united-states-of-america@35w1x {
+    width: 35px; height: 24px;
+    background: url('css_sprites.png') -10px -874px;
+}
+
+x
+.bg-united-states-of-america@35w2x {
+    width: 70px; height: 48px;
+    background: url('css_sprites.png') -10px -2494px;
+}
